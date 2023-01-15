@@ -7,8 +7,8 @@ const NavbarArch = ({ navbarRef, theme }) => {
   return (
     <nav className="navbar navbar-expand-lg" ref={navbarRef}>
       <div className="container">
-        <a className="logo" href="/">
-          <h6>
+        <a className="logo nav-item" href="/">
+          <h6 className="main-color">
             SUSTAINABLE DEVELOPMENT
           </h6>
         </a>

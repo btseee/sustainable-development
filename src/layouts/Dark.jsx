@@ -1,7 +1,6 @@
 import React from "react";
 import { Script } from "gatsby";
 
-import Cursor from "components/cursor";
 import ScrollToTop from "components/scrollToTop";
 import LoadingScreen from "components/Loading-Screen";
 
@@ -39,7 +38,6 @@ const DarkTheme = ({ children, useSkin, mobileappstyle }) => {
 
   return (
     <>
-      <Cursor />
       <LoadingScreen />
       { children }
       <ScrollToTop />
