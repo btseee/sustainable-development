@@ -6,6 +6,7 @@ import LoadingScreen from "components/Loading-Screen";
 
 import "styles/main.css";
 import "styles/preloader.css";  
+import Cursor from "components/cursor";
 
 const LightTheme = ({ children, mobileappstyle, useSkin }) => {
   React.useEffect(() => {
@@ -40,6 +41,7 @@ const LightTheme = ({ children, mobileappstyle, useSkin }) => {
   return (
     <>
       <LoadingScreen />
+      <Cursor/>
       { children }
       <ScrollToTop />
 

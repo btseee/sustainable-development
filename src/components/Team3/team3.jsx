@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react'
+import { Link } from 'gatsby'
 
 const Team3 = () => {
   return (
@@ -8,7 +9,7 @@ const Team3 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head text-center">
               <h2 className="wow fadeIn" data-wow-delay=".3s">
-                Founders
+                Founder
               </h2>
             </div>
           </div>
@@ -19,36 +20,7 @@ const Team3 = () => {
           <div className="col-lg-4">
             <div className="item cir sm-mb50">
               <div className="img">
-                <img src="/img/team/a3.jpg" alt="" />
-                <div id="circle3">
-                  <svg
-                    version="1.1"
-                    x="0px"
-                    y="0px"
-                    width="300px"
-                    height="300px"
-                    viewBox="0 0 300 300"
-                    enableBackground="new 0 0 300 300"
-                    xmlSpace="preserve"
-                  >
-                    <defs>
-                      <path
-                        id="circlePath3"
-                        d=" M 150, 150 m -60, 0 a 60,60 0 0,1 120,0 a 60,60 0 0,1 -120,0 "
-                      />
-                    </defs>
-                    <circle cx="150" cy="100" r="75" fill="none" />
-                    <g>
-                      <use xlinkHref="#circlePath3" fill="none" />
-                      <text fill="#c5a47e" className="custom-font">
-                        <textPath xlinkHref="#circlePath3">
-                          Landscape Designer Landscape Designer Landscape
-                          Designer
-                        </textPath>
-                      </text>
-                    </g>
-                  </svg>
-                </div>
+                <img src="/img/team/lee.jpg" alt="" />
                 <div className="info">
                   <h6 className="ls3">Lee Cashell</h6>
                   <span className="main-color fw-600">CEO</span>
@@ -56,10 +28,27 @@ const Team3 = () => {
               </div>
             </div>
           </div>
+          <div className="col-lg-8 my-auto">
+            <p>
+              Lee Cashell, originally from Delaware, USA, has spent his
+              professional career in North, East, Central and Southeast Asia. As
+              a developer, investor and advisor, he has delivered complex
+              construction projects in fast growing urban centres and is a point
+              of reference for governments and private organizations seeking to
+              better understand emerging and frontier markets.
+            </p>
+            <Link
+              to="/about/about-light"
+              className="custom-font more main-color mt-50"
+              style={{ pointerEvents: 'none' }}
+            >
+              Read More
+            </Link>
+          </div>
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
 export default Team3

@@ -39,7 +39,7 @@ p {
 .progress-wrap::after,
 .nav-scroll .navbar-collapse .active,
 .light .navbar-collapse .active {
-  color: #47E10C !important;
+  color: #c5a47e !important;
 }
 
 .navbar .dropdown-menu .dropdown-item:after,
@@ -111,4 +111,11 @@ p {
   .navbar .navbar-nav .nav-link:hover {
     color: #c5a47e !important;
   }
+}
+
+.demo-1 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
 }

@@ -39,10 +39,10 @@ const Index = () => {
         <NavbarArch navbarRef={navbarRef} />
         <Intro5 />
         <AboutUs6 />
+        <Team3 />
         <Services6 />
         <WorksStyle5 />
         <CaseStudy />
-        <Team3 />
         <TestimonialsArch />
         <LatestNews />
         <ContactArch />
