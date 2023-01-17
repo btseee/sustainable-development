@@ -19,7 +19,7 @@ const Services6 = () => {
             </p>
             <Link
               to="/about/about-dark"
-              className="custom-font more main-color mt-40"
+              className="custom-font more main-color mt-10"
               style={{ pointerEvents: 'none' }}
             >
               Read More
@@ -40,7 +40,7 @@ const Services6 = () => {
             </p>
             <Link
               to="/about/about-dark"
-              className="custom-font more main-color mt-40"
+              className="custom-font more main-color mt-10"
               style={{ pointerEvents: 'none' }}
             >
               Read More
@@ -59,7 +59,7 @@ const Services6 = () => {
             </p>
             <Link
               to="/about/about-dark"
-              className="custom-font more main-color mt-40"
+              className="custom-font more main-color mt-10"
               style={{ pointerEvents: 'none' }}
             >
               Read More
@@ -81,7 +81,7 @@ const Services6 = () => {
             </p>
             <Link
               to="/about/about-dark"
-              className="custom-font more main-color mt-40"
+              className="custom-font more main-color mt-10"
               style={{ pointerEvents: 'none' }}
             >
               Read More
@@ -100,7 +100,7 @@ const Services6 = () => {
             </p>
             <Link
               to="/about/about-dark"
-              className="custom-font more main-color mt-40"
+              className="custom-font more main-color mt-10"
               style={{ pointerEvents: 'none' }}
             >
               Read More
