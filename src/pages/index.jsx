@@ -3,7 +3,6 @@ import Team3 from 'components/Team3/team3';
 import Intro5 from 'components/Intro5/intro5';
 import AboutUs6 from 'components/About-us6/about-us6';
 import Services6 from 'components/Services6/services6';
-import CaseStudy from 'components/Case-study/case-study';
 import NavbarArch from 'components/Navbar-arch/navbar-arch';
 import LatestNews from 'components/Latest-news/latest-news';
 import WorksStyle5 from 'components/Works-style5/works-style5';
@@ -42,7 +41,6 @@ const Index = () => {
         <Team3 />
         <Services6 />
         <WorksStyle5 />
-        <CaseStudy />
         <TestimonialsArch />
         <LatestNews />
         <ContactArch />

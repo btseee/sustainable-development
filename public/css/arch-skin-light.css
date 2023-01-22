@@ -112,10 +112,3 @@ p {
     color: #c5a47e !important;
   }
 }
-
-.demo-1 {
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-}

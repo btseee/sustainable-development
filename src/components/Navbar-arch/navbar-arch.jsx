@@ -45,7 +45,19 @@ const NavbarArch = ({ navbarRef, theme }) => {
             <li className="nav-item">
               <Link
                 className="nav-link"
-                to="po-arch"
+                to="team-arch"
+                spy={true}
+                smooth={true}
+                offset={50}
+                duration={500}
+              >
+                Founders
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                className="nav-link"
+                to="services"
                 spy={true}
                 smooth={true}
                 offset={50}
@@ -54,16 +66,17 @@ const NavbarArch = ({ navbarRef, theme }) => {
                 Services
               </Link>
             </li>
+            
             <li className="nav-item">
               <Link
                 className="nav-link"
-                to="team-arch"
+                to="po-arch"
                 spy={true}
                 smooth={true}
                 offset={50}
                 duration={500}
               >
-                Founders
+                Frameworks
               </Link>
             </li>
             <li className="nav-item">
