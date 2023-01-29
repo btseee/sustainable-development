@@ -18,7 +18,7 @@ const AboutUs6 = () => {
                       className="bg-img bg-fixed"
                       style={{ backgroundImage: "url(/img/arch/hero.jpg)" }}
                     >
-                     45
+                     2
                     </h2>
                     <p>Years</p>
                   </div>
@@ -33,7 +33,7 @@ const AboutUs6 = () => {
                 <p>
                 The Sustainable Development Organization (SDO) is a specialist partner in the provision of diplomatic and administrative facilities in developing countries. Working on behalf of governments, agencies and international organizations, we run a full-service process, identifying land, managing planning and permitting, identifying construction partners, and overseeing the development process. Underpinning our client partnerships are principles of sustainable design which inform our methodology, from inception through to completion. 
                 </p>
-                <Link  className="butn bord mt-30" style={{pointerEvents: "none"}} >
+                <Link  className="butn bord mt-30" to='/about-us' >
                   <span>About Us</span>
                 </Link>
               </div>

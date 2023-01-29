@@ -2,25 +2,31 @@
     {
         "id": 1,
         "icon": "pe-7s-paint-bucket",
-        "title": "Graphic Design",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "title": "Design",
+        "content": "Taking a holistic approach, we contextualize prevailing best practice, and seek to offer solutions which are location-specific and obviate environmental damage. Consideration is paid to efficient use of water, life cycle maintenance, embodied carbon and implementation. Prefabrication and sustainable construction materials are central to this assessment and require local expertise to marry outcomes with the practical reality on the ground. "
     },
     {
         "id": 2,
-        "icon": "pe-7s-phone",
-        "title": "Web & Mobile Design",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+        "icon": "pe-7s-link",
+        "title": "Supply chains",
+        "content": "The construction process is carbon intensive, and ensuring green buildings are not created at the expense of the environment elsewhere, requires intelligent identification of country-specific materials and suppliers.This process- particularly as it relates to renewable energy integration- should be mindful of sourcing, repairing and maintaining beyond building handover. SDO also emphasises flexibility to ensure there is scope for alteration to continue to respond to new technological and digital innovations."
     },
     {
         "id": 3,
-        "icon": "pe-7s-display1",
-        "title": "Social Media Marketing",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+        "icon": "pe-7s-plug",
+        "title": "Energy",
+        "content": "We benefit from an increasingly wide selection of potential renewable power options which can be applied to buildings. The distribution of these technologies, though, is uneven, globally, meaning assessment of suitability relies on local knowledge.  Our technical teams work to ensure not simply reliability but applicability in complex situations.  Successful adoptions reduces cost, emissions, and increases independence. "
     },
     {
         "id": 4,
-        "icon": "pe-7s-diskette",
-        "title": "Document Legal Policy",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "icon": "pe-7s-global",
+        "title": "Social impact",
+        "content": "Development can have an immediate effect on local employment, engendering positive sentiment toward clients. With exacting standards, scope for skills uplift, training and fair working conditions, it can have profoundly positive implications in casting the relationship between foreign and local entities. If managed poorly, however, it can have serious reputational risk. The construction industry has issues of mistreatment of migrant workers, poor health and safety rules and discrimination. We take our lead from international non-governmental organizations (NGOs) and the International Labour Organization (ILO) to ensure clients are confident their buildings and facilities have been constructed in an ethical manner. In particular, we are responsive to protocols on forced labour, and the evolving legal framework which governs identification and remedy."
+    },
+    {
+        "id": 5,
+        "icon": "pe-7s-culture",
+        "title": "Enduring structures",
+        "content": "In each building we develop, careful consideration is given to maintenance and renewal on a recurring basis. This takes account of climate considerations and usage but extends as far as furniture, fixtures and equipment (FFE) and operating supplies and equipment (OSE). Our clients have a responsibility to contribute to, and enhance, the urban environments of which they are a part, reducing the risk of obsolescence or the need for wholesale replacement in the future. Standards of digital connectivity and resilience, form part of this analysis. "
     }
 ]

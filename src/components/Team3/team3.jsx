@@ -35,15 +35,14 @@ const Team3 = () => {
               a developer, investor and advisor, he has delivered complex
               construction projects in fast growing urban centres and is a point
               of reference for governments and private organizations seeking to
-              better understand emerging and frontier markets.
+              better understand emerging and frontier markets. Having witnessed
+              first hand the barriers to entry in opaque land markets, with
+              asymmetry of information, he has developed a data science platform
+              to help aggregate information. An enthusiastic advocate of
+              sustainable development, he established SDO to help ensure
+              development of embassies, consular and diplomatic facilities, are
+              compliant, green and future-proofed.
             </p>
-            <Link
-              to="/about/about-light"
-              className="custom-font more main-color mt-50"
-              style={{ pointerEvents: 'none' }}
-            >
-              Read More
-            </Link>
           </div>
         </div>
       </div>

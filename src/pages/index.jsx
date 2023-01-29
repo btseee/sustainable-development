@@ -4,7 +4,6 @@ import Intro5 from 'components/Intro5/intro5';
 import AboutUs6 from 'components/About-us6/about-us6';
 import Services6 from 'components/Services6/services6';
 import NavbarArch from 'components/Navbar-arch/navbar-arch';
-import LatestNews from 'components/Latest-news/latest-news';
 import WorksStyle5 from 'components/Works-style5/works-style5';
 import FooterArch from 'components/Footer-arch/footer-arch.jsx';
 import ContactArch from 'components/Contact-arch/contact-arch';
@@ -42,7 +41,6 @@ const Index = () => {
         <Services6 />
         <WorksStyle5 />
         <TestimonialsArch />
-        <LatestNews />
         <ContactArch />
         <FooterArch />
       </LightTheme>

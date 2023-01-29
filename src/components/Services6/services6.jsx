@@ -32,9 +32,8 @@ const Services6 = () => {
               location-specific and obviate environmental damage"
             />
             <Link
-              to="/about/about-dark"
+              to="/services"
               className="custom-font more main-color mt-20"
-              style={{ pointerEvents: 'none' }}
             >
               Read More
             </Link>
@@ -56,9 +55,8 @@ const Services6 = () => {
               materials and suppliers."
             />
             <Link
-              to="/about/about-dark"
+              to="/services"
               className="custom-font more main-color mt-20"
-              style={{ pointerEvents: 'none' }}
             >
               Read More
             </Link>
@@ -79,9 +77,8 @@ const Services6 = () => {
             />
 
             <Link
-              to="/about/about-dark"
+              to="/services"
               className="custom-font more main-color mt-20"
-              style={{ pointerEvents: 'none' }}
             >
               Read More
             </Link>
@@ -105,9 +102,8 @@ const Services6 = () => {
               casting the relationship between foreign and local entities."
             />
             <Link
-              to="/about/about-dark"
+              to="/services"
               className="custom-font more main-color mt-20"
-              style={{ pointerEvents: 'none' }}
             >
               Read More
             </Link>
@@ -127,9 +123,8 @@ const Services6 = () => {
               maintenance and renewal on a recurring basis."
             />
             <Link
-              to="/about/about-dark"
+              to="/services"
               className="custom-font more main-color mt-20"
-              style={{ pointerEvents: 'none' }}
             >
               Read More
             </Link>
